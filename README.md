@@ -1,28 +1,16 @@
 
-# Aspire - Capstone project
+# Aspire - Capstone project : Asp.Net MVC Full Stack Application
 
-Full Stack application build using Asp.net MVC, SQL server, bootstrap, and JavaScript. Application to share ideas and communicate with each others to solve pronblems. This application allow users to create account allow to share posts with CRUD operation while having badges of posts current information to idecate to work progress. 
+This project involved the development and implementation of a full-stack web application using Asp.Net MVC, C# (Object Oriented Programming), MSSQL, Bootstrap, JavaScript, and Entity Framework Core. The aim of the project was to provide automation with database, fast user experience, and real-time collaboration.
 
+Working with an agile team of three, we followed agile methodology and the SDLC to ensure the timely and successful completion of the web application. The collaboration enabled us to exchange ideas and come up with a robust application that met the client's needs.
 
+One of the critical features of the web application was the implementation of robust authentication and authorization protocols. This ensured that the interactive database was highly secure, protecting user data from unauthorized access.
 
-## Teach Stack
+As a software developer, I played a crucial role in the project, analyzing and solving complex problems with git, unit testing, and selenium. We used these tools to ensure that the application was working correctly, free from errors and met the client's requirements.
 
+In summary, the project involved the development of a full-stack web application that was fast, secure, and easy to use. Working with an agile team, we delivered a high-quality application that met the client's needs.
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-## Demo Video 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/icMNl7BCOvM/0.jpg)](https://www.youtube.com/watch?v=icMNl7BCOvM)
-
-Link: https://youtu.be/icMNl7BCOvM
 ## Installation
 
 Easy and simple way configure the application is in Visual Studio. 
@@ -38,6 +26,23 @@ Easy and simple way configure the application is in Visual Studio.
 - After that if there is no error, run the application in Visual Studio.
 
 
-## More Information
+## Teach Stack
 
-https://sites.google.com/view/chiragpatil/aspire-website
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+
+## Demo Video 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/icMNl7BCOvM/0.jpg)](https://www.youtube.com/watch?v=icMNl7BCOvM)
+
+[![Youtube link](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/icMNl7BCOvM)
+
+## Author and Social
+
+[![chirag42](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag42/) 
+[![@chirag4242](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white)](https://www.github.com/chirag4242)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://cio-app.herokuapp.com/)
+[![Projects](https://img.shields.io/badge/Projects%20Site-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)](https://sites.google.com/view/chiragpatil/home)
