@@ -25,8 +25,12 @@ Easy and simple way configure the application is in Visual Studio.
 ```
 - After that if there is no error, run the application in Visual Studio.
 
+### Setup information
+- Require to have sql server setup and with connections string information from `Aspire/appsettings.json` file
+- Batter to use visual studio for PM console and follow the proper steps because missing step would make issues with migration 
+- Please share experince or issue to learn and contribute further
 
-## Teach Stack
+## Tech Stack
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
